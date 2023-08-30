@@ -1,9 +1,9 @@
-### 我是江银涛
+### 你好，我是江银涛
 
-- :dog: 大家好啊！我是石家庄铁道大学 软件工程系的在校学生，个人性格开朗，欢迎访问我的GitHub主页！
-- :man_technologist: 我是一名热爱编程和探索科技世界的大四学生，也是一个开源代码的狂热爱好者。在我的代码仓库中，你会发现我对各种项目有着浓厚的兴趣，WEB应用开发、Python技术、深度学习等，都曾留下我的足迹。
-- :pencil: 博客：[O_O似曾相识 Blog.com](https://www.cnblogs.com/jyt604743080/) - 做了许多的总结啊
-- :seedling: 笔记：[覆盖了许多自己的学习笔记 还有许多遇到的问题以及解决方案](https://github.com/jyt0921/jyt0921/blob/main/Photo/img_1.jpg)
+- 💼 我是石家庄铁道大学 软件工程系的在校学生，个人性格开朗，欢迎访问我的GitHub主页！
+- 🌐 我是一名热爱编程和探索科技世界的大四学生，也是一个开源代码的狂热爱好者。在我的代码仓库中，你会发现我对各种项目有着浓厚的兴趣，WEB应用开发、Python技术、深度学习等，都曾留下我的足迹。
+- 🎓 博客：[O_O似曾相识 Blog.com](https://www.cnblogs.com/jyt604743080/) - 做了许多的总结啊
+- 📚 笔记：[覆盖了许多自己的学习笔记 还有许多遇到的问题以及解决方案](https://github.com/jyt0921/jyt0921/blob/main/Photo/img_1.jpg)
 
 ### 个人技术栈
  -  熟练掌握Java基础，熟悉JUC、反射、常用集合源码，如HashMap、ArrayList等，具备良好的编程习惯
@@ -17,7 +17,7 @@
     通用技术组件
  -	了解常用消息中间件如RabbitMQ、Kafka，具备实现消息的异步处理和解耦的能力，提升系统性能和可扩展性
  -	了解SpringCloud框架、Nacos注册中心、Gateway网关、Feign等组件
- - :feet: 当然除了Java的技术栈之外，在大学期间还学习了很多的其他语言做了许多的项目，具体的直接看下面的项目吧
+ - 🤝 当然除了Java的技术栈之外，在大学期间还学习了很多的其他语言做了许多的项目，具体的直接看下面的项目吧
 ### 项目概览 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=0921&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzhengwei&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
