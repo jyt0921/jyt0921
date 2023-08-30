@@ -2,8 +2,8 @@
 
 - :dog: 大家好啊！我是石家庄铁道大学 软件工程系的在校学生，个人性格开朗，欢迎访问我的GitHub主页！
 - :man_technologist: 我是一名热爱编程和探索科技世界的大四学生，也是一个开源代码的狂热爱好者。在我的代码仓库中，你会发现我对各种项目有着浓厚的兴趣，WEB应用开发、Python技术、深度学习等，都曾留下我的足迹。
-- :seedling: 笔记：[覆盖了许多自己的学习笔记 还有许多遇到的问题以及解决方案](https://github.com/jyt0921/jyt0921/blob/main/Photo/img_1.jpg)
 - :pencil: 博客：[O_O似曾相识 Blog.com](https://www.cnblogs.com/jyt604743080/) - 做了许多的总结啊
+- :seedling: 笔记：[覆盖了许多自己的学习笔记 还有许多遇到的问题以及解决方案](https://github.com/jyt0921/jyt0921/blob/main/Photo/img_1.jpg)
 
 ### 个人技术栈
  -  熟练掌握Java基础，熟悉JUC、反射、常用集合源码，如HashMap、ArrayList等，具备良好的编程习惯
