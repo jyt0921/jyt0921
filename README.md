@@ -20,9 +20,7 @@
  - 🤝 当然除了Java的技术栈之外，在大学期间还学习了很多的其他语言做了许多的项目，具体的直接看下面的项目吧
 ### 项目概览 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=0921&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzhengwei&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyt0921&show_icons=true&theme=radical)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jyt0921&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzhengwei&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### 开发的项目
 
